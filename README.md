@@ -1,2 +1,8 @@
 # Ms--league_backend
-# With nest.js
+
+# Technologies Used
+# Feature	
+# Web framework	   ---> NestJS
+# ORM	-------------->TypeORM (or Prisma)
+# Authentication---- >JWT + Passport
+# File upload (videos)-->Multer or Cloudinary
